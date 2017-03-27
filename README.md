@@ -2,7 +2,7 @@
 
 Create a simple secure hello-world node application using the npm package http-server. 
 
-First, git clone this repository, install node dependencies and start it up with the command 'http-server'. Verify that you see the 'Hello' world message at http://127.0.0.1:8080/sandbox/.
+First, git clone this repository, install node dependencies and start it up with the command 'http-server'. Verify that you see the 'Hello World' message at http://127.0.0.1:8080/sandbox/.
 
 Next, secure this app so that you can run it over https. Create ssl .pem files. Keep any file changes you make local and don't push your changes back to this repository.
 
